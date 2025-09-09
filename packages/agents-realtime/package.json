@@ -75,7 +75,7 @@
   "license": "MIT",
   "devDependencies": {
     "@types/debug": "^4.1.12",
-    "vite": "^6.3.5"
+    "vite": "^6.3.6"
   },
   "files": [
     "dist"
