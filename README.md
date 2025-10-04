@@ -1,4 +1,4 @@
-# OpenAI Agents SDK (JavaScript/TypeScript)
+ # OpenAI Agents SDK (JavaScript/TypeScript)
 
 [![npm version](https://badge.fury.io/js/@openai%2Fagents.svg)](https://badge.fury.io/js/@openai%2Fagents) [![CI](https://github.com/openai/openai-agents-js/actions/workflows/test.yml/badge.svg)](https://github.com/openai/openai-agents-js/actions/workflows/test.yml)
 
